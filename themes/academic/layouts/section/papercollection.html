@@ -1,0 +1,76 @@
+{{- define "main" -}}
+
+<div class="universal-wrapper">
+  <br />
+  <div class="row">
+    <div class="col-lg-12">
+
+      {{ with .Content }}
+      <div class="article-style" itemprop="articleBody">{{ . }}</div>
+      {{ end }}
+
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+        </div>
+        <div class="col-lg-8">
+
+          {{ range $idx, $key := sort .Pages ".Params.index"}}
+          {{ $item := . }}
+          {{/* Get summary. */}}
+          {{ $summary := "" }}
+          {{ if $item.Params.summary }}
+          {{ $summary = $item.Params.summary | markdownify | emojify }}
+          {{ else if .Params.abstract }}
+          {{ $summary = .Params.abstract | markdownify | emojify }}
+          {{ else if $item.Truncated }}
+          {{ $summary = $item.Summary }}
+          {{ else }}
+          {{ $summary = $item.Content }}
+          {{ end }}
+
+          <div class="card-simple" itemscope>
+            {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+            {{ with $resource }}
+            <a href="{{ $item.Params.Link }}">
+              <img src="{{ $resource.RelPermalink }}" class="article-banner" itemprop="image" alt="">
+            </a>
+            {{end}}
+
+            <h3 class="article-title mb-1 mt-3" itemprop="name">
+              <a href="{{ $item.Params.Link }}" itemprop="url">{{ $item.Title }}</a>
+            </h3>
+
+            {{ with $summary }}
+            <div class="article-style" itemprop="articleBody">
+              {{ . }}
+            </div>
+            {{ end }}
+
+            <div class="btn-links">
+              {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+            </div>
+
+          </div>
+
+          {{ end }}
+
+        </div>
+      </div>
+      <br />
+      <div class="row" id="friend_links">
+        <div class="col-lg-2"></div>
+        <div class="col-lg-8">
+          <h4>Friend Links</h4>
+          <ul>
+            {{ range .Params.Links }}
+            <li>{{ . | markdownify | emojify }}</li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+{{- end -}}

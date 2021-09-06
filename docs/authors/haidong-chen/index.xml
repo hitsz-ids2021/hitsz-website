@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haidong Chen on 奇安信数据安全研究院</title>
-    <link>/authors/haidong-chen/</link>
+    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/haidong-chen/</link>
     <description>Recent content in Haidong Chen on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/haidong-chen/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/haidong-chen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Uncertainty-Aware Multidimensional Ensemble Data Visualization and Exploration</title>
-      <link>/publications/uncertainty/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/uncertainty/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publications/uncertainty/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/uncertainty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Abstraction and Exploration of Multi-class Scatterplots</title>
-      <link>/publications/visual-abstraction/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/visual-abstraction/</link>
       <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publications/visual-abstraction/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/visual-abstraction/</guid>
       <description></description>
     </item>
     

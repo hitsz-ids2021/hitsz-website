@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Location-based on 奇安信数据安全研究院</title>
-    <link>/tags/location-based/</link>
+    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/location-based/</link>
     <description>Recent content in Location-based on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Mar 2018 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="/tags/location-based/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/location-based/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Relationlines: Visual Reasoning of Egocentric Relations from Heterogeneous Urban Data</title>
-      <link>/publications/relationlines/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/relationlines/</link>
       <pubDate>Thu, 01 Mar 2018 15:46:02 +0800</pubDate>
       
-      <guid>/publications/relationlines/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/relationlines/</guid>
       <description></description>
     </item>
     

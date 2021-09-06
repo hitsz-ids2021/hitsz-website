@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/</link>
+    <link>/</link>
     <description>Recent content on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Oct 2020 13:15:20 -0600</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Members</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/members/</link>
+      <link>/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/members/</guid>
+      <guid>/members/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Talks</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/talks/</link>
+      <link>/talks/</link>
       <pubDate>Tue, 27 Oct 2020 13:15:20 -0600</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/talks/</guid>
+      <guid>/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/</link>
+      <link>/publications/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/</guid>
+      <guid>/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper Collection</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/papercollection/</link>
+      <link>/papercollection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/papercollection/</guid>
+      <guid>/papercollection/</guid>
       <description></description>
     </item>
     

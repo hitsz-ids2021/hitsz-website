@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>uncertainty on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/uncertainty/</link>
+    <link>/tags/uncertainty/</link>
     <description>Recent content in uncertainty on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Jan 2019 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/uncertainty/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/uncertainty/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exploring the Sensitivity of Choropleths under Attribute Uncertainty.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/geouncertainty/</link>
+      <link>/publications/geouncertainty/</link>
       <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/geouncertainty/</guid>
+      <guid>/publications/geouncertainty/</guid>
       <description></description>
     </item>
     

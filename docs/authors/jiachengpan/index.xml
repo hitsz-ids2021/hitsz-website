@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/jiachengpan/</link>
+    <link>/authors/jiachengpan/</link>
     <description>Recent content on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Oct 2020 08:00:00 +0800</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/jiachengpan/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/jiachengpan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jiacheng Pan presenting TVCG Paper “Exemplar-based Layout Fine-tuning for Node-link Diagrams” at IEEE InfoVis 2020</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/talks/2020vis-jiacheng/</link>
+      <link>/talks/2020vis-jiacheng/</link>
       <pubDate>Mon, 26 Oct 2020 08:00:00 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/talks/2020vis-jiacheng/</guid>
+      <guid>/talks/2020vis-jiacheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dongming Han and Jiacheng Pan presenting Structure-Based Suggestive Exploration at IEEE InfoVis 2018</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/talks/2018vis-han-pan/</link>
+      <link>/talks/2018vis-han-pan/</link>
       <pubDate>Wed, 24 Oct 2018 11:43:20 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/talks/2018vis-han-pan/</guid>
+      <guid>/talks/2018vis-han-pan/</guid>
       <description></description>
     </item>
     

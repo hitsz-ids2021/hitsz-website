@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Siyuan Gao on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/siyuan-gao/</link>
+    <link>/authors/siyuan-gao/</link>
     <description>Recent content in Siyuan Gao on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/siyuan-gao/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/siyuan-gao/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Adaptively Exploring Population Mobility Patterns in Flow Visualization</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/populationmobilitypatterns/</link>
+      <link>/publications/populationmobilitypatterns/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/populationmobilitypatterns/</guid>
+      <guid>/publications/populationmobilitypatterns/</guid>
       <description></description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yi Yang on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/yi-yang/</link>
+    <link>/authors/yi-yang/</link>
     <description>Recent content in Yi Yang on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/yi-yang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/yi-yang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/eemefn/</link>
+      <link>/publications/eemefn/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/eemefn/</guid>
+      <guid>/publications/eemefn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/dmgan/</link>
+      <link>/publications/dmgan/</link>
       <pubDate>Tue, 02 Apr 2019 15:46:02 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/dmgan/</guid>
+      <guid>/publications/dmgan/</guid>
       <description></description>
     </item>
     

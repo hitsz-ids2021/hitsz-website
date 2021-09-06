@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper Collection on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/papercollection/</link>
+    <link>/papercollection/</link>
     <description>Recent content in Paper Collection on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/papercollection/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/papercollection/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>EuroVis</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/papercollection/eurovis/</link>
+      <link>/papercollection/eurovis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/papercollection/eurovis/</guid>
+      <guid>/papercollection/eurovis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IEEE Pacific Visualization</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/papercollection/ieeepvis/</link>
+      <link>/papercollection/ieeepvis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/papercollection/ieeepvis/</guid>
+      <guid>/papercollection/ieeepvis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IEEE VIS (VAST, InfoVis and SciVis)</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/papercollection/ieeevis/</link>
+      <link>/papercollection/ieeevis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/papercollection/ieeevis/</guid>
+      <guid>/papercollection/ieeevis/</guid>
       <description></description>
     </item>
     

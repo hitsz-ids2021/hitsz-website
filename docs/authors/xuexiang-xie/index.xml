@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xuexiang Xie on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/xuexiang-xie/</link>
+    <link>/authors/xuexiang-xie/</link>
     <description>Recent content in Xuexiang Xie on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Sep 2010 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/xuexiang-xie/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/xuexiang-xie/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Real-Time Shape Illustration Using Laplacian Lines</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/real-timeshape/</link>
+      <link>/publications/real-timeshape/</link>
       <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/real-timeshape/</guid>
+      <guid>/publications/real-timeshape/</guid>
       <description></description>
     </item>
     

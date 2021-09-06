@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiacheng Pan on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/jiacheng-pan/</link>
+    <link>/authors/jiacheng-pan/</link>
     <description>Recent content in Jiacheng Pan on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/jiacheng-pan/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/jiacheng-pan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exemplar-based Layout Fine-tuning for Node-link Diagrams</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/exemplar-based-fine-tuning/</link>
+      <link>/publications/exemplar-based-fine-tuning/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/exemplar-based-fine-tuning/</guid>
+      <guid>/publications/exemplar-based-fine-tuning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structure-Based Suggestive Exploration: New Approach for Effective Exploration of Large Networks</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/structure-based/</link>
+      <link>/publications/structure-based/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/structure-based/</guid>
+      <guid>/publications/structure-based/</guid>
       <description></description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Liangjun Liu on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/liangjun-liu/</link>
+    <link>/authors/liangjun-liu/</link>
     <description>Recent content in Liangjun Liu on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/liangjun-liu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/liangjun-liu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DRGraph: An Efficient Graph Layout Algorithm for Large-scale Graphs by Dimensionality Reduction</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/drgraph/</link>
+      <link>/publications/drgraph/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/drgraph/</guid>
+      <guid>/publications/drgraph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>location2vec: a situation-aware representation for visual exploration of urban locations</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/location2vec/</link>
+      <link>/publications/location2vec/</link>
       <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/location2vec/</guid>
+      <guid>/publications/location2vec/</guid>
       <description></description>
     </item>
     

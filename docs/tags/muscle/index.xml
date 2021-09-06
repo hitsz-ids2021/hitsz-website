@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Muscle on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/muscle/</link>
+    <link>/tags/muscle/</link>
     <description>Recent content in Muscle on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jun 2009 17:20:04 +0800</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/muscle/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/muscle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Volume Illustration of Muscle from Diffusion Tensor Images.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/vimdti/</link>
+      <link>/publications/vimdti/</link>
       <pubDate>Mon, 29 Jun 2009 17:20:04 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/vimdti/</guid>
+      <guid>/publications/vimdti/</guid>
       <description></description>
     </item>
     

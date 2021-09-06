@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yankong Zhang on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/yankong-zhang/</link>
+    <link>/authors/yankong-zhang/</link>
     <description>Recent content in Yankong Zhang on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2019 17:20:04 +0800</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/yankong-zhang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/yankong-zhang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>location2vec: a situation-aware representation for visual exploration of urban locations</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/location2vec/</link>
+      <link>/publications/location2vec/</link>
       <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/location2vec/</guid>
+      <guid>/publications/location2vec/</guid>
       <description></description>
     </item>
     

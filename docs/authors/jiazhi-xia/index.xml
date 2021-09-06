@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiazhi Xia on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/jiazhi-xia/</link>
+    <link>/authors/jiazhi-xia/</link>
     <description>Recent content in Jiazhi Xia on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/jiazhi-xia/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/jiazhi-xia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ConceptExplorer: Visual Analysis of Concept Drifts in Multi-source Time-series Data</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/conceptexplorer/</link>
+      <link>/publications/conceptexplorer/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/conceptexplorer/</guid>
+      <guid>/publications/conceptexplorer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RSATree: Distribution-AwareData Representation of Large-Scale Tabular Datasets for Flexible Visual Query</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/rsa-tree/</link>
+      <link>/publications/rsa-tree/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/rsa-tree/</guid>
+      <guid>/publications/rsa-tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>location2vec: a situation-aware representation for visual exploration of urban locations</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/location2vec/</link>
+      <link>/publications/location2vec/</link>
       <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/location2vec/</guid>
+      <guid>/publications/location2vec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/fuzzyclustering/</link>
+      <link>/publications/fuzzyclustering/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/fuzzyclustering/</guid>
+      <guid>/publications/fuzzyclustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structure-Based Suggestive Exploration: New Approach for Effective Exploration of Large Networks</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/structure-based/</link>
+      <link>/publications/structure-based/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/structure-based/</guid>
+      <guid>/publications/structure-based/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LDSScanner: Exploratory Analysis of Low-Dimensional Structures in High-Dimensional Datasets</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/ldsscanner/</link>
+      <link>/publications/ldsscanner/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/ldsscanner/</guid>
+      <guid>/publications/ldsscanner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-Time Shape Illustration Using Laplacian Lines</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/real-timeshape/</link>
+      <link>/publications/real-timeshape/</link>
       <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/real-timeshape/</guid>
+      <guid>/publications/real-timeshape/</guid>
       <description></description>
     </item>
     

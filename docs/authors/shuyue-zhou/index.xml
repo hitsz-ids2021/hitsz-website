@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shuyue Zhou on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/shuyue-zhou/</link>
+    <link>/authors/shuyue-zhou/</link>
     <description>Recent content in Shuyue Zhou on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/shuyue-zhou/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/shuyue-zhou/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exemplar-based Layout Fine-tuning for Node-link Diagrams</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/exemplar-based-fine-tuning/</link>
+      <link>/publications/exemplar-based-fine-tuning/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/exemplar-based-fine-tuning/</guid>
+      <guid>/publications/exemplar-based-fine-tuning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RSATree: Distribution-AwareData Representation of Large-Scale Tabular Datasets for Flexible Visual Query</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/rsa-tree/</link>
+      <link>/publications/rsa-tree/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/rsa-tree/</guid>
+      <guid>/publications/rsa-tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Perceptual Bias During Geometric Scaling of Scatterplots</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/evaluating-scatterplots/</link>
+      <link>/publications/evaluating-scatterplots/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/evaluating-scatterplots/</guid>
+      <guid>/publications/evaluating-scatterplots/</guid>
       <description></description>
     </item>
     

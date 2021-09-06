@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/zhiqiliu/</link>
+    <link>/authors/zhiqiliu/</link>
     <description>Recent content on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/zhiqiliu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/zhiqiliu/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

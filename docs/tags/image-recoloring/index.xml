@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>image recoloring on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/image-recoloring/</link>
+    <link>/tags/image-recoloring/</link>
     <description>Recent content in image recoloring on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 08:00:00 +0800</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/image-recoloring/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/image-recoloring/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An Efficient Direct Volume Rendering Algorithm for Dichromats.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/dichromats/</link>
+      <link>/publications/dichromats/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/dichromats/</guid>
+      <guid>/publications/dichromats/</guid>
       <description></description>
     </item>
     

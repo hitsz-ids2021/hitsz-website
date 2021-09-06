@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manufacturing on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/manufacturing/</link>
+    <link>/tags/manufacturing/</link>
     <description>Recent content in Manufacturing on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/manufacturing/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/manufacturing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/vidx/</link>
+      <link>/publications/vidx/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/vidx/</guid>
+      <guid>/publications/vidx/</guid>
       <description></description>
     </item>
     

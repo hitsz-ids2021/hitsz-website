@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jing Xia on 奇安信数据安全研究院</title>
-    <link>/authors/jing-xia/</link>
+    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/jing-xia/</link>
     <description>Recent content in Jing Xia on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Mar 2018 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="/authors/jing-xia/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/jing-xia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Relationlines: Visual Reasoning of Egocentric Relations from Heterogeneous Urban Data</title>
-      <link>/publications/relationlines/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/relationlines/</link>
       <pubDate>Thu, 01 Mar 2018 15:46:02 +0800</pubDate>
       
-      <guid>/publications/relationlines/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/relationlines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection.</title>
-      <link>/publications/dimscanner/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/dimscanner/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publications/dimscanner/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/dimscanner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualizing Rank Time Series of Wikipedia Top Viewed Pages.</title>
-      <link>/publications/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</link>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publications/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GameFlow: Narrative Visualization of NBA Basketball Games</title>
-      <link>/publications/gameflow/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/gameflow/</link>
       <pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publications/gameflow/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/gameflow/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>奇安信数据安全研究院</title>
-    <link>/authors/xumengwang/</link>
+    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/xumengwang/</link>
     <description>Recent content on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Oct 2018 09:36:20 +0800</lastBuildDate>
     
-	    <atom:link href="/authors/xumengwang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/xumengwang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Xumeng Wang presenting GraphProtector at IEEE VAST 2018</title>
-      <link>/talks/2018vis-xumeng/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/talks/2018vis-xumeng/</link>
       <pubDate>Thu, 25 Oct 2018 09:36:20 +0800</pubDate>
       
-      <guid>/talks/2018vis-xumeng/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/talks/2018vis-xumeng/</guid>
       <description></description>
     </item>
     

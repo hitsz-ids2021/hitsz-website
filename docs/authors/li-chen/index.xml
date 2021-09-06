@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Chen on 奇安信数据安全研究院</title>
-    <link>/authors/li-chen/</link>
+    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/li-chen/</link>
     <description>Recent content in Li Chen on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/li-chen/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/li-chen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cluster-based Visual Abstraction for Multivariate Scatterplots</title>
-      <link>/publications/cluster-based/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/cluster-based/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publications/cluster-based/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/cluster-based/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Visual Voting Framework for Weather Forecast Calibration.</title>
-      <link>/publications/a-visual-voting-framework-for-weather-forecast-calibration/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/a-visual-voting-framework-for-weather-forecast-calibration/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publications/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/a-visual-voting-framework-for-weather-forecast-calibration/</guid>
       <description></description>
     </item>
     

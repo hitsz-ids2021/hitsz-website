@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>奇安信数据安全研究院</title>
-    <link>/authors/zhaosonghuang/</link>
+    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/zhaosonghuang/</link>
     <description>Recent content on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Oct 2019 09:30:20 +0800</lastBuildDate>
     
-	    <atom:link href="/authors/zhaosonghuang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/zhaosonghuang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Zhaosong Huang presenting VAST TVCG Paper “A Natural-language-based Visual Query Approach of Uncertain Human Trajectories” at IEEE VAST 2019</title>
-      <link>/talks/2019vis-zhaosong-1/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/talks/2019vis-zhaosong-1/</link>
       <pubDate>Fri, 25 Oct 2019 09:30:20 +0800</pubDate>
       
-      <guid>/talks/2019vis-zhaosong-1/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/talks/2019vis-zhaosong-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zhaosong Huang presenting TVCG Paper “Exploring the Sensitivity of Choropleths under Attribute Uncertainty” at IEEE VAST 2019</title>
-      <link>/talks/2019vis-zhaosong-2/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/talks/2019vis-zhaosong-2/</link>
       <pubDate>Thu, 24 Oct 2019 15:35:20 +0800</pubDate>
       
-      <guid>/talks/2019vis-zhaosong-2/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/talks/2019vis-zhaosong-2/</guid>
       <description></description>
     </item>
     

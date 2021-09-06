@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>semantic visualization on 奇安信数据安全研究院</title>
-    <link>/tags/semantic-visualization/</link>
+    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/semantic-visualization/</link>
     <description>Recent content in semantic visualization on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/semantic-visualization/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/semantic-visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Semantics-Space-Time Cube: A Conceptual Framework for Systematic Analysis of Texts in Space and Time.</title>
-      <link>/publications/semantics_cube/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/semantics_cube/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publications/semantics_cube/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/semantics_cube/</guid>
       <description></description>
     </item>
     

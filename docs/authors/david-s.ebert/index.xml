@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David S.Ebert on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/david-s.ebert/</link>
+    <link>/authors/david-s.ebert/</link>
     <description>Recent content in David S.Ebert on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/david-s.ebert/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/david-s.ebert/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/dimscanner/</link>
+      <link>/publications/dimscanner/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/dimscanner/</guid>
+      <guid>/publications/dimscanner/</guid>
       <description></description>
     </item>
     

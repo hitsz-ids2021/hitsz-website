@@ -16,17 +16,17 @@
 
 [[main]]
   name = "Publications"
-  url = "/publications"
+  url = "#publications"
   weight = 30
 
 [[main]]
   name = "Members"
-  url = "/members"
+  url = "#members"
   weight = 40
 
 [[main]]
   name = "PaperCollection"
-  url = "/PaperCollection"
+  url = "#PaperCollection"
   weight = 50
 
 [[main]]

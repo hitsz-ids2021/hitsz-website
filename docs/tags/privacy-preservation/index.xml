@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacy Preservation on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/privacy-preservation/</link>
+    <link>/tags/privacy-preservation/</link>
     <description>Recent content in Privacy Preservation on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/privacy-preservation/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/privacy-preservation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GraphProtector: A Visual Interface for Employing and Assessing Multiple Privacy Preserving Graph Algorithms.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/graphprotector/</link>
+      <link>/publications/graphprotector/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/graphprotector/</guid>
+      <guid>/publications/graphprotector/</guid>
       <description></description>
     </item>
     

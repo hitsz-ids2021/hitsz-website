@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guihua Shan on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/guihua-shan/</link>
+    <link>/authors/guihua-shan/</link>
     <description>Recent content in Guihua Shan on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 08:00:00 +0800</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/guihua-shan/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/guihua-shan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Efficient Volume Exploration Using the Gaussian Mixture Model.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/gaussianmixture/</link>
+      <link>/publications/gaussianmixture/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/gaussianmixture/</guid>
+      <guid>/publications/gaussianmixture/</guid>
       <description></description>
     </item>
     

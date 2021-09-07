@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Task analysis on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/task-analysis/</link>
+    <link>/tags/task-analysis/</link>
     <description>Recent content in Task analysis on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/task-analysis/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/task-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/fuzzyclustering/</link>
+      <link>/publications/fuzzyclustering/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/fuzzyclustering/</guid>
+      <guid>/publications/fuzzyclustering/</guid>
       <description></description>
     </item>
     

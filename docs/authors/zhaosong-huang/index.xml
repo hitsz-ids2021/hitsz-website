@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhaosong Huang on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/zhaosong-huang/</link>
+    <link>/authors/zhaosong-huang/</link>
     <description>Recent content in Zhaosong Huang on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/zhaosong-huang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/zhaosong-huang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Natural-language-based Visual Query Approach of Uncertain Human Trajectories</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/nlp-urban/</link>
+      <link>/publications/nlp-urban/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/nlp-urban/</guid>
+      <guid>/publications/nlp-urban/</guid>
       <description></description>
     </item>
     
     <item>
       <title>location2vec: a situation-aware representation for visual exploration of urban locations</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/location2vec/</link>
+      <link>/publications/location2vec/</link>
       <pubDate>Mon, 11 Mar 2019 17:20:04 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/location2vec/</guid>
+      <guid>/publications/location2vec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Sensitivity of Choropleths under Attribute Uncertainty.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/geouncertainty/</link>
+      <link>/publications/geouncertainty/</link>
       <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/geouncertainty/</guid>
+      <guid>/publications/geouncertainty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VAUD: A visual analysis approach for exploring spatio-temporal urban data.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/vaud/</link>
+      <link>/publications/vaud/</link>
       <pubDate>Fri, 02 Nov 2018 15:46:02 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/vaud/</guid>
+      <guid>/publications/vaud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structuring Mobility Transition With an Adaptive Graph Representation.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/amtg/</link>
+      <link>/publications/amtg/</link>
       <pubDate>Thu, 02 Aug 2018 15:46:02 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/amtg/</guid>
+      <guid>/publications/amtg/</guid>
       <description></description>
     </item>
     

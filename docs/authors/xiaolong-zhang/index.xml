@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaolong Zhang on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/xiaolong-zhang/</link>
+    <link>/authors/xiaolong-zhang/</link>
     <description>Recent content in Xiaolong Zhang on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/xiaolong-zhang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/xiaolong-zhang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Structure-Based Suggestive Exploration: New Approach for Effective Exploration of Large Networks</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/structure-based/</link>
+      <link>/publications/structure-based/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/structure-based/</guid>
+      <guid>/publications/structure-based/</guid>
       <description></description>
     </item>
     

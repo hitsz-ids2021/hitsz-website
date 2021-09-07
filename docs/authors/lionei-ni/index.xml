@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lionei Ni on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/lionei-ni/</link>
+    <link>/authors/lionei-ni/</link>
     <description>Recent content in Lionei Ni on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Mar 2015 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/lionei-ni/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/lionei-ni/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BoundarySeer: Visual Analysis of 2D Boundary Changes.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/boundaryseer/</link>
+      <link>/publications/boundaryseer/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/boundaryseer/</guid>
+      <guid>/publications/boundaryseer/</guid>
       <description></description>
     </item>
     

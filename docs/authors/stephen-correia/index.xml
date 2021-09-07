@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephen Correia on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/stephen-correia/</link>
+    <link>/authors/stephen-correia/</link>
     <description>Recent content in Stephen Correia on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Oct 2009 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/stephen-correia/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/stephen-correia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Novel Interface for Interactive Exploration of DTI Fibers.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/dti/</link>
+      <link>/publications/dti/</link>
       <pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/dti/</guid>
+      <guid>/publications/dti/</guid>
       <description></description>
     </item>
     

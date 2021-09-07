@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visualization on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/visualization/</link>
+    <link>/tags/visualization/</link>
     <description>Recent content in Visualization on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Jan 2019 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exploring the Sensitivity of Choropleths under Attribute Uncertainty.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/geouncertainty/</link>
+      <link>/publications/geouncertainty/</link>
       <pubDate>Wed, 02 Jan 2019 15:46:02 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/geouncertainty/</guid>
+      <guid>/publications/geouncertainty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ScatterNet: A Deep Subjective Similarity Model for Visual Analysis of Scatterplots.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/scatternet/</link>
+      <link>/publications/scatternet/</link>
       <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/scatternet/</guid>
+      <guid>/publications/scatternet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/fuzzyclustering/</link>
+      <link>/publications/fuzzyclustering/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/fuzzyclustering/</guid>
+      <guid>/publications/fuzzyclustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ECharts: A Declarative Framework for Rapid Construction of Web-based Visualization.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/echarts/</link>
+      <link>/publications/echarts/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/echarts/</guid>
+      <guid>/publications/echarts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualizing Rank Time Series of Wikipedia Top Viewed Pages.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</link>
+      <link>/publications/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</link>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</guid>
+      <guid>/publications/visualizing-rank-time-series-of-wikipedia-top-viewed-pages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Visual Reasoning Approach for Data-driven Transport Assessment on Urban Road.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/visual_reasoning/</link>
+      <link>/publications/visual_reasoning/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/visual_reasoning/</guid>
+      <guid>/publications/visual_reasoning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BoundarySeer: Visual Analysis of 2D Boundary Changes.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/boundaryseer/</link>
+      <link>/publications/boundaryseer/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/boundaryseer/</guid>
+      <guid>/publications/boundaryseer/</guid>
       <description></description>
     </item>
     

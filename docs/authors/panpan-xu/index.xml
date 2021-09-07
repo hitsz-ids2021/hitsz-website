@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Panpan Xu on 奇安信数据安全研究院</title>
-    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/panpan-xu/</link>
+    <link>/authors/panpan-xu/</link>
     <description>Recent content in Panpan Xu on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 08:00:00 +0800</lastBuildDate>
     
-	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/panpan-xu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/panpan-xu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>RankExplorer: Visualization of Ranking Changes in Large Time Series Data.</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/rankexplorer/</link>
+      <link>/publications/rankexplorer/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/rankexplorer/</guid>
+      <guid>/publications/rankexplorer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories</title>
-      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/vidx/</link>
+      <link>/publications/vidx/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/vidx/</guid>
+      <guid>/publications/vidx/</guid>
       <description></description>
     </item>
     

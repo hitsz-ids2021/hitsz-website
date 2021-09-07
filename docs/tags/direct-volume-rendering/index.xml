@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>direct volume rendering on 奇安信数据安全研究院</title>
-    <link>/tags/direct-volume-rendering/</link>
+    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/direct-volume-rendering/</link>
     <description>Recent content in direct volume rendering on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 08:00:00 +0800</lastBuildDate>
     
-	    <atom:link href="/tags/direct-volume-rendering/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/direct-volume-rendering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An Efficient Direct Volume Rendering Algorithm for Dichromats.</title>
-      <link>/publications/dichromats/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/dichromats/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
-      <guid>/publications/dichromats/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/dichromats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception-Based Transparency Optimization for Direct Volume Rendering.</title>
-      <link>/publications/perception-based/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/perception-based/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
-      <guid>/publications/perception-based/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/perception-based/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hardware Accelerated Adaptive EWA Volume Splatting</title>
-      <link>/publications/hardware/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/hardware/</link>
       <pubDate>Sun, 10 Oct 2004 00:00:00 +0000</pubDate>
       
-      <guid>/publications/hardware/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/hardware/</guid>
       <description></description>
     </item>
     

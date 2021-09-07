@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dichromacy on 奇安信数据安全研究院</title>
-    <link>/tags/dichromacy/</link>
+    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/dichromacy/</link>
     <description>Recent content in Dichromacy on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 08:00:00 +0800</lastBuildDate>
     
-	    <atom:link href="/tags/dichromacy/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/dichromacy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An Efficient Direct Volume Rendering Algorithm for Dichromats.</title>
-      <link>/publications/dichromats/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/dichromats/</link>
       <pubDate>Fri, 01 Jun 2018 08:00:00 +0800</pubDate>
       
-      <guid>/publications/dichromats/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/dichromats/</guid>
       <description></description>
     </item>
     

@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data visualization on 奇安信数据安全研究院</title>
-    <link>/tags/data-visualization/</link>
+    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/data-visualization/</link>
     <description>Recent content in Data visualization on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 15:46:02 +0800</lastBuildDate>
     
-	    <atom:link href="/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evaluating Multi-Dimensional Visualizations for Understanding Fuzzy Clusters.</title>
-      <link>/publications/fuzzyclustering/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/fuzzyclustering/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
       
-      <guid>/publications/fuzzyclustering/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/fuzzyclustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Abstraction of Large Scale Geospatial Origin-Destination Movement Data.</title>
-      <link>/publications/odflow/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/odflow/</link>
       <pubDate>Mon, 20 Aug 2018 15:46:02 +0800</pubDate>
       
-      <guid>/publications/odflow/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/odflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Analytics of Mobility and Transportation: State of the Art and Further Research Directions.</title>
-      <link>/publications/mobilityandtransportation/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/mobilityandtransportation/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publications/mobilityandtransportation/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/mobilityandtransportation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BoundarySeer: Visual Analysis of 2D Boundary Changes.</title>
-      <link>/publications/boundaryseer/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/boundaryseer/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publications/boundaryseer/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/boundaryseer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VAET: A Visual Analytics Approach for E-transactions Time-series.</title>
-      <link>/publications/vaet/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/vaet/</link>
       <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publications/vaet/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/vaet/</guid>
       <description></description>
     </item>
     

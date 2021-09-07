@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>similarity measuring on 奇安信数据安全研究院</title>
-    <link>/tags/similarity-measuring/</link>
+    <link>https://hitsz-ids2021.github.io/hitsz-website/tags/similarity-measuring/</link>
     <description>Recent content in similarity measuring on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/similarity-measuring/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/tags/similarity-measuring/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ScatterNet: A Deep Subjective Similarity Model for Visual Analysis of Scatterplots.</title>
-      <link>/publications/scatternet/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/scatternet/</link>
       <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publications/scatternet/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/scatternet/</guid>
       <description></description>
     </item>
     

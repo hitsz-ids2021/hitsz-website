@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mingliang Xu on 奇安信数据安全研究院</title>
-    <link>/authors/mingliang-xu/</link>
+    <link>https://hitsz-ids2021.github.io/hitsz-website/authors/mingliang-xu/</link>
     <description>Recent content in Mingliang Xu on 奇安信数据安全研究院</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/mingliang-xu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hitsz-ids2021.github.io/hitsz-website/authors/mingliang-xu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ConceptExplorer: Visual Analysis of Concept Drifts in Multi-source Time-series Data</title>
-      <link>/publications/conceptexplorer/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/conceptexplorer/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publications/conceptexplorer/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/conceptexplorer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Natural-language-based Visual Query Approach of Uncertain Human Trajectories</title>
-      <link>/publications/nlp-urban/</link>
+      <link>https://hitsz-ids2021.github.io/hitsz-website/publications/nlp-urban/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publications/nlp-urban/</guid>
+      <guid>https://hitsz-ids2021.github.io/hitsz-website/publications/nlp-urban/</guid>
       <description></description>
     </item>
     
